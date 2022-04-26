@@ -12,43 +12,43 @@ h1 {
   
 
 .q {
-    background-image: url("images/q.png");
+    background-image: url("q.png");
     background-repeat: no-repeat;  
     background-size: 150px 100px;
 }
   
 .w {
-    background-image: url("images/w.png");
+    background-image: url("w.png");
     background-repeat: no-repeat;  
     background-size: 150px 100px;
 }
   
 .e {
-    background-image: url("images/e.png");
+    background-image: url("e.png");
     background-repeat: no-repeat;  
     background-size: 150px 100px;
 }
   
 .r {
-    background-image: url("images/r.gif"); 
+    background-image: url("r.gif"); 
     background-repeat: no-repeat;  
     background-size: 140px 100px;
 }
   
 .t {
-    background-image: url("images/t.png");
+    background-image: url("t.png");
     background-repeat: no-repeat;  
     background-size: 150px 100px;
 }
   
 .y {
-    background-image: url("images/y.png");
+    background-image: url("y.png");
     background-repeat: no-repeat;  
     background-size: 150px 100px;
 }
   
 .u {
-    background-image: url("images/u.gif");
+    background-image: url("u.gif");
     background-repeat: no-repeat;  
     background-size: 150px 100px;
 }
